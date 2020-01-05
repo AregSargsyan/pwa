@@ -1,23 +1,23 @@
 {
   "configVersion": 1,
-  "timestamp": 1578237140049,
-  "index": "/index.html",
+  "timestamp": 1578248549459,
+  "index": "https://aregsargsyan.github.io/weatherApp/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/main-es2015.83ee7371627c693c4b87.js",
-        "/main-es5.83ee7371627c693c4b87.js",
-        "/manifest.webmanifest",
-        "/polyfills-es2015.2987770fde9daa1d8a2e.js",
-        "/polyfills-es5.df1101cc1e7b588877f8.js",
-        "/runtime-es2015.edb2fcf2778e7bf1d426.js",
-        "/runtime-es5.edb2fcf2778e7bf1d426.js",
-        "/styles.c6708bbeef6472c17550.css"
+        "https://aregsargsyan.github.io/weatherApp/favicon.ico",
+        "https://aregsargsyan.github.io/weatherApp/index.html",
+        "https://aregsargsyan.github.io/weatherApp/main-es2015.83ee7371627c693c4b87.js",
+        "https://aregsargsyan.github.io/weatherApp/main-es5.83ee7371627c693c4b87.js",
+        "https://aregsargsyan.github.io/weatherApp/manifest.webmanifest",
+        "https://aregsargsyan.github.io/weatherApp/polyfills-es2015.2987770fde9daa1d8a2e.js",
+        "https://aregsargsyan.github.io/weatherApp/polyfills-es5.df1101cc1e7b588877f8.js",
+        "https://aregsargsyan.github.io/weatherApp/runtime-es2015.edb2fcf2778e7bf1d426.js",
+        "https://aregsargsyan.github.io/weatherApp/runtime-es5.edb2fcf2778e7bf1d426.js",
+        "https://aregsargsyan.github.io/weatherApp/styles.c6708bbeef6472c17550.css"
       ],
       "patterns": []
     },
@@ -26,14 +26,14 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "https://aregsargsyan.github.io/weatherApp/assets/icons/icon-128x128.png",
+        "https://aregsargsyan.github.io/weatherApp/assets/icons/icon-144x144.png",
+        "https://aregsargsyan.github.io/weatherApp/assets/icons/icon-152x152.png",
+        "https://aregsargsyan.github.io/weatherApp/assets/icons/icon-192x192.png",
+        "https://aregsargsyan.github.io/weatherApp/assets/icons/icon-384x384.png",
+        "https://aregsargsyan.github.io/weatherApp/assets/icons/icon-512x512.png",
+        "https://aregsargsyan.github.io/weatherApp/assets/icons/icon-72x72.png",
+        "https://aregsargsyan.github.io/weatherApp/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
@@ -62,24 +62,24 @@
     }
   ],
   "hashTable": {
-    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "4e9a19a08c2c52279674dfcdbddd9ad75d31b0f0",
-    "/main-es2015.83ee7371627c693c4b87.js": "06a427e427376ef1f350ad6193090ca445c1e41d",
-    "/main-es5.83ee7371627c693c4b87.js": "1e6ccbf90fc738dcc1b0e82798f8616beca4400e",
-    "/manifest.webmanifest": "41aad940584ef118f690f004e3d6a2f8ba8fbd73",
-    "/polyfills-es2015.2987770fde9daa1d8a2e.js": "cf5cbfa9134716054fb479ab21362146cdf1f2ff",
-    "/polyfills-es5.df1101cc1e7b588877f8.js": "be7220c312d2c09c05c0e8aad50c5ec13d0c4c1f",
-    "/runtime-es2015.edb2fcf2778e7bf1d426.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/runtime-es5.edb2fcf2778e7bf1d426.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/styles.c6708bbeef6472c17550.css": "2b290e3319fc75120fa4677c8f0d4d67077eda2e"
+    "https://aregsargsyan.github.io/weatherApp/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://aregsargsyan.github.io/weatherApp/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://aregsargsyan.github.io/weatherApp/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://aregsargsyan.github.io/weatherApp/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://aregsargsyan.github.io/weatherApp/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://aregsargsyan.github.io/weatherApp/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://aregsargsyan.github.io/weatherApp/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://aregsargsyan.github.io/weatherApp/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://aregsargsyan.github.io/weatherApp/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://aregsargsyan.github.io/weatherApp/index.html": "e966785879882d6f618db8bcab5e4c14c2eaeba1",
+    "https://aregsargsyan.github.io/weatherApp/main-es2015.83ee7371627c693c4b87.js": "06a427e427376ef1f350ad6193090ca445c1e41d",
+    "https://aregsargsyan.github.io/weatherApp/main-es5.83ee7371627c693c4b87.js": "1e6ccbf90fc738dcc1b0e82798f8616beca4400e",
+    "https://aregsargsyan.github.io/weatherApp/manifest.webmanifest": "1bf82145ccf72b54c2bafbb3ee0147ac7de7fcf0",
+    "https://aregsargsyan.github.io/weatherApp/polyfills-es2015.2987770fde9daa1d8a2e.js": "cf5cbfa9134716054fb479ab21362146cdf1f2ff",
+    "https://aregsargsyan.github.io/weatherApp/polyfills-es5.df1101cc1e7b588877f8.js": "be7220c312d2c09c05c0e8aad50c5ec13d0c4c1f",
+    "https://aregsargsyan.github.io/weatherApp/runtime-es2015.edb2fcf2778e7bf1d426.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://aregsargsyan.github.io/weatherApp/runtime-es5.edb2fcf2778e7bf1d426.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://aregsargsyan.github.io/weatherApp/styles.c6708bbeef6472c17550.css": "2b290e3319fc75120fa4677c8f0d4d67077eda2e"
   },
   "navigationUrls": [
     {
