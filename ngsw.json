@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1578254432289,
+  "timestamp": 1578263092724,
   "index": "/pwa/index.html",
   "assetGroups": [
     {
@@ -19,7 +19,10 @@
         "/pwa/runtime-es5.edb2fcf2778e7bf1d426.js",
         "/pwa/styles.c6708bbeef6472c17550.css"
       ],
-      "patterns": []
+      "patterns": [
+        "https:\\/\\/api\\.openweathermap\\.org\\/data\\/2\\.5\\/forecast\\?id=616051&units=metric&APPID=c43bfb8f4335efe4e1714dd01126b645\\/.*",
+        "https:\\/\\/openweathermap\\.org\\/img\\/.*"
+      ]
     },
     {
       "name": "assets",
